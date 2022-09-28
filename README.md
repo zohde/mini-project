@@ -1,2 +1,2 @@
-# mini-project
+ # mini-project
 slider and LogicGate
